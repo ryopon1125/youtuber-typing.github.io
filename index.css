@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 43, 43);
+}
+
+#text {
+    font-size: 4em;
+    font-weight: bold;
+    color:rgb(0, 165, 187);
+    text-align: center;
+}
+
+span {
+    transition: all 300ms 0s ease;
+}
+
+.add-blue {
+    font-size: 0.5em;
+    color: rgb(0, 255, 55);
+}
+
+ h1 {
+    color: white;
+    text-align: center;
+}
+
+#risutart {
+    bottom: 700px;
+    position: absolute;
+    font-weight: 500;
+}
